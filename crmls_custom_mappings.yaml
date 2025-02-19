@@ -7,7 +7,7 @@
   formatter: number_formatter
 - reso_field: AdditionalDimensions
   reso_class: LocalizedFields
-  perchwell_field: additional_dimensions
+  perchwell_field: additional_dimensionsghjfgjk
   perchwell_class: LocalizedFields
   mapping_type: string
   display_string: Additional Dimensions
