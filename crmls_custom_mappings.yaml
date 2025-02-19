@@ -1,6 +1,6 @@
 - reso_field: AdNumber
   reso_class: LocalizedFields
-  perchwell_field: ad_number
+  perchwell_field: just_number
   perchwell_class: LocalizedFields
   mapping_type: number
   display_string: Ad Number
